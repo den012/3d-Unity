@@ -1,6 +1,4 @@
 # 3d-Unity
-<br><br>
-
 ``` Low poly simple nature pack by JustCreate || Low poly GUNS PACK by Ishikawa1116```
 
 <h1>Game preview👽</h1>

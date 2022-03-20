@@ -2,8 +2,7 @@
 3d unity game
 <br><br>
 
-``` Low poly simple nature pack by JustCreate
-    Low poly GUNS PACK by Ishikawa1116
+``` Low poly simple nature pack by JustCreate \n Low poly GUNS PACK by Ishikawa1116
 ```
 
 <h1>Game preview👽</h1>
